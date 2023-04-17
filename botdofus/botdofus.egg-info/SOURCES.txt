@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botdofus/__init__.py
+botdofus/__main__.py
+botdofus/bot.py
+botdofus.egg-info/PKG-INFO
+botdofus.egg-info/SOURCES.txt
+botdofus.egg-info/dependency_links.txt
+botdofus.egg-info/requires.txt
+botdofus.egg-info/top_level.txt
+botdofus/resources/start.png
